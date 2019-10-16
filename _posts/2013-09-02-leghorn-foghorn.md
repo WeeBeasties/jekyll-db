@@ -3,7 +3,7 @@ layout: entry
 member-name: Leghorn, Foghorn
 membership: Senior
 level: Casual
-USCF: No
+USCF: None
 rating: 1250
 ladder: 6
 

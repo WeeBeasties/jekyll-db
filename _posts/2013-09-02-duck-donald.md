@@ -3,7 +3,7 @@ layout: entry
 member-name: Duck, Donald
 membership: Regular
 level: Casual
-USCF: No
+USCF: None
 rating: 1132
 ladder: 7
 

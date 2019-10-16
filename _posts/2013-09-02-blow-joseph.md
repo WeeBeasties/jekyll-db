@@ -3,7 +3,7 @@ layout: entry
 member-name: Blow, Joseph
 membership: Junior
 level: Casual
-USCF: No
+USCF: None
 rating: 1440
 ladder: 3 (-1)
 

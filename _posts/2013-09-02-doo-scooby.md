@@ -3,7 +3,7 @@ layout: entry
 member-name: Doo, Scooby
 membership: Senior
 level: Advanced
-USCF: Yes
+USCF: Yes/1042
 rating: 1695
 ladder: 1
 

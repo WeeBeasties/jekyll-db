@@ -3,7 +3,7 @@ layout: entry
 member-name: Jetson, George
 membership: Senior
 level: Beginner
-USCF: No
+USCF: None
 rating: 725
 ladder: 10
 

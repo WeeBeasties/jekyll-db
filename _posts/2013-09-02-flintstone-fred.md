@@ -3,7 +3,7 @@ layout: entry
 member-name: Flintstone, Fred
 membership: Senior
 level: Advanced
-USCF: Yes
+USCF: Yes/921
 rating: 1330
 ladder: 4 (-1)
 

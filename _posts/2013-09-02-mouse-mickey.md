@@ -3,7 +3,7 @@ layout: entry
 member-name: Mouse, Mickey
 membership: Junior
 level: Beginner
-USCF: No
+USCF: None
 rating: 1200
 ladder: 11
 

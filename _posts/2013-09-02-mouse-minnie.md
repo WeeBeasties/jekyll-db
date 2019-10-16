@@ -3,7 +3,7 @@ layout: entry
 member-name: Mouse, Minnie
 membership: Regular
 level: Beginner
-USCF: No
+USCF: None
 rating: 1300
 ladder: 5
 

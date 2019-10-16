@@ -3,7 +3,7 @@ layout: entry
 member-name: Bunny, Bugs
 membership: Senior
 level: Casual
-USCF: No
+USCF: None
 rating: 975
 ladder: 9
 

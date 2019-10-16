@@ -3,7 +3,7 @@ layout: entry
 member-name: Coyote, Wile E.
 membership: Regular
 level: Casual
-USCF: No
+USCF: None
 rating: 1200
 ladder: 12
 
