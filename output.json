@@ -1,12 +1,12 @@
 ---
 layout: none
 ---
-[{% for member in site.members %}{
-	"member-name": "{{member.member-name}}",
-	"level": "{{member.level}}",
-	"membership": "{{member.membership}}",
-	"USCF": "{{member.USCF}}",
-	"games": "{{ member.games | array_to_sentence_string }}",
-	"rating": "{{member.rating}}"
-	"ladder": "{{member.ladder}}"
+[{% for player in site.members %}{
+	"member-name": "{{player.member-name}}",
+	"level": "{{player.level}}",
+	"membership": "{{player.membership}}",
+	"USCF": "{{player.USCF}}",
+	"games": "{{ player.games | array_to_sentence_string }}",
+	"rating": "{{player.rating}}"
+	"ladder": "{{player.ladder}}"
 }{% if forloop.rindex0 > 0 %},{% endif %}{% endfor %}]
