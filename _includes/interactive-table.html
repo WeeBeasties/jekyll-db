@@ -18,15 +18,15 @@
 		</tr>
 	</thead>
 	<tbody class="list">
-	{% for player in site.members %}
+	{% for post in site.members %}
 		<tr>
-			<td class="name">{{ player.member-name }}</td>
-			<td class="level">{{ player.level }}</td>
-			<td class="membership">{{ player.membership }}</td>
-			<td class="USCF">{{ player.USCF }}</td>
-			<td class="games">{{ player.games | array_to_sentence_string }}</td>
-			<td class="rating">{{ player.rating }}</td>
-			<td class="ladder">{{ player.ladder }}</td>
+			<td class="name">{{ post.member-name }}</td>
+			<td class="level">{{ post.level }}</td>
+			<td class="membership">{{ post.membership }}</td>
+			<td class="USCF">{{ post.USCF }}</td>
+			<td class="games">{{ post.games | array_to_sentence_string }}</td>
+			<td class="rating">{{ post.rating }}</td>
+			<td class="ladder">{{ post.ladder }}</td>
 		</tr>
 	{% endfor %}
 	</tbody>
