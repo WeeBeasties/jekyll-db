@@ -1,15 +1,15 @@
 ---
 layout: entry
-company-name: LabDoor
-city: Chicago
-state: Illinois
-employees: 100
+member-name: Bunny, Bugs
+membership: Senior
+level: Casual
+USCF: No
+rating: 975
+ladder: 9
 
-categories:
-- startup
-
-tags:
-- consumer
-- safety
-- lab
+games:
+- W3
+- D3
+- L4
+- 45%
 ---

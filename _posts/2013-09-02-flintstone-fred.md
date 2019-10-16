@@ -1,15 +1,15 @@
 ---
 layout: entry
-company-name: Eligible
-city: Mountain View
-state: California
-employees: 100
+member-name: Flintstone, Fred
+membership: Senior
+level: Advanced
+USCF: Yes
+rating: 1330
+ladder: 2 (+2)
 
-categories:
-- startup
-
-tags: 
-- eligibility
-- api
-- plans
+games:
+- W5
+- D4
+- L11
+- 35%
 ---
