@@ -1,7 +1,7 @@
 ---
 layout: none
 ---
-[{% for post in site.members %}{
+[{% for post in site.posts %}{
 	"member-name": "{{post.member-name}}",
 	"level": "{{post.level}}",
 	"membership": "{{post.membership}}",
