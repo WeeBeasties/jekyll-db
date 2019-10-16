@@ -2,10 +2,11 @@
 layout: none
 ---
 [{% for post in site.posts %}{
-	"company-name": "{{post.company-name}}",
-	"city": "{{post.city}}",
-	"state": "{{post.state}}",
-	"employees": "{{post.employees}}",
-	"tags": "{{ post.tags | array_to_sentence_string }}",
-	"categories": "{{post.categories}}"
+	"member-name": "{{post.member-name}}",
+	"level": "{{post.level}}",
+	"membership": "{{post.membership}}",
+	"USCF": "{{post.USCF}}",
+	"games": "{{ post.games | array_to_sentence_string }}",
+	"rating": "{{post.rating}}"
+	"ladder": "{{post.ladder}}"
 }{% if forloop.rindex0 > 0 %},{% endif %}{% endfor %}]
