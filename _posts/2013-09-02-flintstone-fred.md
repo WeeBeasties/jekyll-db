@@ -5,7 +5,7 @@ membership: Senior
 level: Advanced
 USCF: Yes
 rating: 1330
-ladder: 2 (+2)
+ladder: 4 (-1)
 
 games:
 - W5
